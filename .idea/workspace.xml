@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aafbe31f-8305-4ed9-abfe-1bb298ce4dda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/DS.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/augrat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cloud computing.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cropped1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/data-mining.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mavs crop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mavshd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pacific trails.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/uta mavericks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vaccitright.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/vcrop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/sass/main.scss" afterDir="false" />
-    </list>
+    <list default="true" id="aafbe31f-8305-4ed9-abfe-1bb298ce4dda" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="170">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -148,12 +105,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549402253323</updated>
-      <workItem from="1549402255358" duration="305000" />
+      <workItem from="1549402255358" duration="1289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305000" />
+    <option name="totallyTimeSpent" value="1289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -197,8 +154,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="170">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
