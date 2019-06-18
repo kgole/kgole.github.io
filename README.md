@@ -1,5 +1,4 @@
-# kgole.github.io
-Portfolio hosted on Ghub Pages
+# Portfolio hosted on Ghub Pages
 
 
 Note: Py-Flask skeleton in repository: kgoleport (Not being maintained since)
