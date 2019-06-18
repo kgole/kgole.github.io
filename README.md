@@ -1,5 +1,6 @@
 # Portfolio hosted on Ghub Pages
 
+(This performs better than AWS Free tier for some reason)
 
 Note: Py-Flask skeleton in repository: kgoleport (Not being maintained since)
 
